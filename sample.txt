@@ -1,1 +1,2 @@
-git tutorial feature 1
+git tutorial feature 1 
+added few changes
